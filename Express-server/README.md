@@ -6,7 +6,6 @@ Simple Express.js server created as exercise for Kodilla webdeveloper bootcamp (
 
 * Express.js
 * templating engine: express-handlebars
-* nodemon
 
 ## Installation
 
